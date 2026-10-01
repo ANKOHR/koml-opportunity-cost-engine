@@ -1,0 +1,9 @@
+Build complete: 2026-10-01
+Tests: 36 passed (python -m pytest -q)
+Local implementation commit: 418c2351933edfcf8993a68a8e5f2d861cc9340b
+Branch: main
+Installed CLI demo: 0.5922 seconds; JSON report: 0.1797 seconds.
+
+Built a local-only, CPU-only deterministic Python koce CLI with fixtures, run, report, compare, and audit commands. The pure engine validates explicit mutually exclusive task groups and computes exact hypothetical GBP foregone values, avoidable gaps, and dominated choices. The labelled 200-record synthetic fixture reconciles with independent hand-computed ground truth, with all 20 planted dominated cases and zero false positives. Markdown and JSON reports carry provenance and hypothetical figure labels. Thirty-six tests cover arithmetic, corrupted input, empty and malformed data, adversarial values, Unicode, deterministic output, atomic write failures, and the hand-written five-record example. README, evidence, lessons, and a pending post-trial verdict document the boundaries and two-week improvement hook. No real usage or measured savings are claimed. Publishing was not performed.
+
+This file references the implementation commit; the following documentation commit adds this completion record. No self-referential final commit hash is claimed.
