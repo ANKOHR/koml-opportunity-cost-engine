@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "entered_by": "hand-written illustrative example",
+  "as_of": "2026-09-30",
+  "currency": "GBP",
+  "records": [
+    {"id":"chosen","decision":"morning","title":"Build a control tool","date":"2026-09-30","selected":true,"value":"120.00","synthetic":true},
+    {"id":"client","decision":"morning","title":"Client work","date":"2026-09-30","selected":false,"value":"160.00","synthetic":true},
+    {"id":"docs","decision":"morning","title":"Write documentation","date":"2026-09-30","selected":false,"value":"80.00","synthetic":true},
+    {"id":"research","decision":"morning","title":"Research","date":"2026-09-30","selected":false,"value":"60.00","synthetic":true},
+    {"id":"maintenance","decision":"morning","title":"Maintenance","date":"2026-09-30","selected":false,"value":"40.00","synthetic":true}
+  ]
+}

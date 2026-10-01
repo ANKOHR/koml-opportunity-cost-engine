@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.koce-results.json
+demo/
+*.log
+*-launch.py
+*-prompt.txt
